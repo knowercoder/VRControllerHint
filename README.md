@@ -5,7 +5,9 @@ Quickly add controller button Hints to your VR applications using this asset. It
 
 Supported devices – Oculus Rift, Oculus Quest, HTC Vive, Microsoft MR.
 
-![VRControllerHint](https://github.com/sivabalan-m/VRControllerHint/assets/43854177/ac4d711d-e6a1-42a0-8cf1-23af78b1fdbd)
+https://github.com/sivabalan-m/VRControllerHint/assets/43854177/c4c3cd97-c326-4e75-abb0-ec2d9ad3f5ba
+
+
 
 
 **How to setup:**
